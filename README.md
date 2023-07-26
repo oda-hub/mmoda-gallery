@@ -1,4 +1,4 @@
-# A Gallery of INTEGRAL products through the MultiMessenger Online Data Analysis
+# A Gallery of INTEGRAL products through
 
 <div align="center">
 <img width="75%" src="readme_imgs/homepage.png">
